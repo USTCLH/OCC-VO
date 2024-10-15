@@ -13,8 +13,8 @@ Visual Odometry (VO) plays a pivotal role in autonomous systems, with a principa
 **Here are our [demo.mp4](https://drive.google.com/file/d/19PJcGKtTDNeHtML7I6L5uIMSZDbbJt23/view?usp=drive_link) about OCC-VO.**
 
 # News
-- **[2023/05/29]** We have released our code.
-- **[2023/02/01]** OCC-VO is accepted to ICRA 2024!
+- **[2024/05/29]** We have released our code.
+- **[2024/02/01]** OCC-VO is accepted to ICRA 2024!
 
 # Pipeline
 ![OCC-VO pipeline](figure/pipeline.png)
